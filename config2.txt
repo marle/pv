@@ -1,0 +1,5 @@
+mode: s (h_oliday, w_inter, s_ummer)
+onExcess: 5000
+onDeficiency: -5000
+grid: 0
+limit: 0
