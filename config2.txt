@@ -3,3 +3,4 @@ onExcess: 5000
 onDeficiency: -5000
 grid: 0
 limit: 0
+chargeFromGrid: 1
