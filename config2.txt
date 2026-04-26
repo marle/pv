@@ -1,4 +1,6 @@
-mode: s (h_oliday, w_inter, s_ummer)
+mode: a (h_oliday, a_uto)
+minSoc: 39
+maxSoc: 96
 onExcess: 5000
 onDeficiency: -5000
 grid: 0
